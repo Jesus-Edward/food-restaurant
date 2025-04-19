@@ -1,0 +1,43 @@
+.password-toggle-icon {
+    position: absolute;
+    top: 51%;
+    right: 30px;
+    transform: translate(-50%);
+    cursor: pointer;
+}
+
+.password-toggle-icon i {
+    font-size: 14px;
+    line-height: 0;
+
+}
+
+.password-toggle-icon-lock {
+    position: absolute;
+    top: 51%;
+    left: 40px;
+    transform: translate(-50%);
+    cursor: pointer;
+}
+
+.password-toggle-icon-lock i {
+    font-size: 14px;
+    line-height: 0;
+
+}
+
+
+.password-toggle-icon-user {
+    position: absolute;
+    top: 51%;
+    left: 40px;
+    transform: translate(-50%);
+    cursor: pointer;
+}
+
+.password-toggle-icon-user i {
+    font-size: 14px;
+    line-height: 0;
+
+}
+
